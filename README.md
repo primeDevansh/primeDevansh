@@ -14,8 +14,8 @@
 <!-- Badges Section (if applicable) -->
 <p align="center">
   <!-- Add relevant badges (e.g., GitHub followers, stars, contributions) -->
-  ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&logo=github&color=4CAF50)
-  ![GitHub stars](https://img.shields.io/github/stars/your-username/project-name?style=flat-square&logo=github&color=FFCA28)
+  https://img.shields.io/github/followers/primeDevansh?label=Followers&style=flat-square&logo=github&color=4CAF50
+  https://img.shields.io/github/stars/primeDevansh/project-name?style=flat-square&logo=github&color=FFCA28
 </p>
 
 <!-- About Me -->
