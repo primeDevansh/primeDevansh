@@ -11,24 +11,17 @@
   <img src="https://images.squarespace-cdn.com/content/v1/57d4b0456a49635bed4dae6c/1654784361989-3XL2HFXG3RSJHJZBQ1D4/BR_MVP_lebron.gif?format=2500w" alt="Basketball Animation" width="300"/>
 </p>
 
-<!-- Badges Section (if applicable) -->
-<p align="center">
-  <!-- Add relevant badges (e.g., GitHub followers, stars, contributions) -->
-  https://img.shields.io/github/followers/primeDevansh?label=Followers&style=flat-square&logo=github&color=4CAF50
-  https://img.shields.io/github/stars/primeDevansh/project-name?style=flat-square&logo=github&color=FFCA28
-</p>
-
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-Hey there! I'm [Your Name], a passionate basketball enthusiast and coding wizard. When I'm not dunking code, you'll find me shooting hoops on the basketball court or cheering for my favorite team.
+Hey there! I'm Devansh, a passionate basketball enthusiast and coding wizard. When I'm not dunking code, you'll find me shooting hoops on the basketball court or cheering for my favorite team.
 
 <!-- My Tech Stack -->
 ## 💻 My Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js
-- **Dribbling Skills:** Pro-level handles in VS Code
+- **Languages:** Swift, Rust, Java, C++, C, HTML, CSS
+- **Frameworks:** SwiftUI, React, Node.js
+- **Dribbling Skills:** Pro-level handles in VS Code & Xcode
 
 <!-- Hoop Highlights -->
 ## 🏀 Hoop Highlights
@@ -42,25 +35,10 @@ Hey there! I'm [Your Name], a passionate basketball enthusiast and coding wizard
 
 Let's talk hoops, code, and everything in between. Connect with me on:
 
-- [Twitter](https://twitter.com/your-twitter)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Email](mailto:your.email@example.com)
+- [Instagram](https://instagram.com/r6.devansh)
+- [LinkedIn](https://www.linkedin.com/in/rastogidevansh)
 
 <!-- Fun Fact -->
 ## 🎉 Fun Fact
 
 Did you know? The first basketball game was played with a soccer ball and two peach baskets. Talk about a slam dunk in creativity!
-
-<!-- Dark Mode Toggle -->
-<details>
-<summary>🌙 Toggle Dark Mode</summary>
-
-Switch to the dark side for an immersive coding and basketball experience.
-
-```css
-body {
-  background-color: #121212;
-  color: #ffffff;
-}
-
-/* Add more dark mode styles as needed */
