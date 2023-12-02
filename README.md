@@ -8,7 +8,7 @@
 
 <!-- Preview Image/Animation -->
 <p align="center">
-  <img src="[https://example.com/basketball_animation.gif](https://images.squarespace-cdn.com/content/v1/57d4b0456a49635bed4dae6c/1654784361989-3XL2HFXG3RSJHJZBQ1D4/BR_MVP_lebron.gif?format=2500w)" alt="Basketball Animation" width="300"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/57d4b0456a49635bed4dae6c/1654784361989-3XL2HFXG3RSJHJZBQ1D4/BR_MVP_lebron.gif?format=2500w" alt="Basketball Animation" width="300"/>
 </p>
 
 <!-- Badges Section (if applicable) -->
