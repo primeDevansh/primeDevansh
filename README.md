@@ -89,7 +89,7 @@ Let's talk hoops, code, and everything in between. Connect with me on:
 
 ### Crashing Into Success
 
-*On the day of my driving test, disaster struck as I crashed my car into a lamp-post just moments before the exam was scheduled to begin. The rear bumper was left hanging precariously, and the car emitted an alarming noise. Despite my nerves, I decided to proceed with the test. Much to my surprise, not only did I manage to complete the test, but I also passed it with flying cars, uh, oh! I mean colours, of course!*
+*On the day of my driving test, disaster struck as I crashed my car into a lamp-post just moments before the exam was scheduled to begin. The rear bumper was left hanging precariously, and the car emitted an alarming noise. Despite my nerves, I decided to proceed with the test. Much to my surprise, not only did I manage to complete the test, but I also passed it with flying cars, uh, oh! I mean flying colours, of course!*
 
 
 <!-- Did you know? The first basketball game was played with a soccer ball and two peach baskets. Talk about a slam dunk in creativity! -->
