@@ -3,7 +3,7 @@
 
 <!-- Project Description -->
 <p align="center">
-  Shoot for the stars, and may the hoops be ever in your favor!
+  <b><i>Shoot for the stars, and may the hoops be ever in your favor!</i></b>
 </p>
 
 <!-- Preview Image/Animation -->
