@@ -1,0 +1,2 @@
+- Edited the source code "README.md" in VS Code
+- Executed using shortcut ⌘ + SHIFT + V
