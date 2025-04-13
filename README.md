@@ -10,7 +10,7 @@
   <b><i>"Shoot for the stars, and may the hoops be ever in your favor!"</i></b>
 </p>
 
-Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm a **research-driven developer** who loves exploring AI models, ML algorithms, systems and pushing, the limits of what's possible. My strong interest in the field of Mathematics often finds me integrating technology with the fascinating world of Finance. Apart from my tech interests, I also keep up with global events and how technology affects the world.
+Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm a **research-driven developer** who loves exploring AI models, ML algorithms, systems and pushing the limits of what's possible. My strong interest in the field of Mathematics has recently found me integrating technology with the fascinating world of Finance. Apart from my tech interests, I also keep up with global events and how technology can help to foster a better world.
 
 ---
 
