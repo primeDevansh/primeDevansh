@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-# 👋 Hi, I’m Devansh!
+# 👋 Hi, I’m Devansh! <img src="https://img.shields.io/github/followers/primeDevansh?label=Follow&style=social" alt="github followers"/>
 
 > “Creativity is intelligence having fun.” – Albert Einstein
 
