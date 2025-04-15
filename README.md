@@ -10,11 +10,15 @@
   <b><i>"Shoot for the stars, and may the hoops be ever in your favor!"</i></b>
 </p>
 
-Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm a **research-driven developer** who loves exploring AI models, ML algorithms, systems and pushing the limits of what's possible. My strong interest in the field of Mathematics has recently found me integrating technology with the fascinating world of Finance. Apart from my tech interests, I also keep up with global events and how technology can help to foster a better world.
+Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm a **research-driven developer** who loves exploring AI models, ML algorithms, systems and pushing the limits of what's possible.
+
+My strong interest in the field of Mathematics has recently found me integrating technology with the fascinating world of Finance. 
+
+Apart from my tech interests, I also keep up with global events and how technology can help to foster a better world.
 
 ---
 
-### 🔧 I Got The Moves! (Tech Stack)
+### 🔧 Bag of Moves (Tech Stack)
 
 - **Languages:** Python, R, Java, C/C++, Rust (and growing)
 - **Frameworks:** Docker, Selenium, SwiftUI, Substrate (and growing even more)
@@ -27,21 +31,19 @@ Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm
 
 > Please refer my [LinkedIn](https://www.linkedin.com/in/rastogidevansh) portfolio for up-to-date and crisp information about my career.
 
-#### 📌 SDE - ION Group Gurugram, *On-site, Jan. 2025 - present*
-#### 📌 Research Intern - IIITD Delhi, *On-site, May 2024 - Dec. 2024*
-#### 📌 Data Science Intern - IBM SkillsBuild Initiative, *Remote, Feb. 2024 - Mar. 2024*
-#### 📌 Blockchain Developer Apprenticeship - IBC Media, *Remote, Aug. 2023 - Oct. 2023*
-#### 📌 Liaison Officer - G20 Conference on Crime & Security, *Gurugram, July 2023*
+- SDE - **ION Group Gurugram**, *On-site, Jan. 2025 - present*
+- Research Intern - **IIITD Delhi**, *On-site, May 2024 - Dec. 2024*
+- Data Science Intern - **IBM SkillsBuild Initiative**, *Remote, Feb. 2024 - Mar. 2024*
+- Blockchain Developer Apprenticeship - **IBC Media**, *Remote, Aug. 2023 - Oct. 2023*
+- Liaison Officer - **G20 Conference on Crime & Security**, *Gurugram, July 2023*
 
 ---
 
-### Games Worth Re-Watching (Repositories/Projects Worth Exploring)
+### 📦 Games Worth Re-Watching (Repositories/Projects Worth Exploring)
 
-- My `GitHub Pages` Portfolio and Blog-Site – [Repo Link](https://www.github.com/primeDevansh/primeDevansh.github.io), [Portfolio](https://primeDevansh.github.io)
-
-- My Source-Controlled Resume - [Repo Link](https://www.github.com/primeDevansh/myResume)
-
-- My Arduino Projects – [Repo Link](https://www.github.com/primeDevansh/myArduinoProjects)
+- Personal Portfolio and Blog site – [Repo Link](https://www.github.com/primeDevansh/primeDevansh.github.io), [Blog Link](https://primeDevansh.github.io), [Portfolio Link](https://primeDevansh.github.io/about)
+- Source-Controlled Resume – [Repo Link](https://www.github.com/primeDevansh/myResume)
+- Arduino Projects – [Repo Link](https://www.github.com/primeDevansh/myArduinoProjects)
 
 ---
 
@@ -51,17 +53,15 @@ Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm
 - 🔌 RDMA & High-Speed Networking
 - 💻 Distributed Systems
 - 🛠️ Low-Level C, Linux Kernel Logs
-- 📖 Additional coursework during my time at IIIT-Delhi along with ongoing research work
+- 📖 Additional coursework of IIIT-Delhi along with research work
 
 ---
 
 ### 🎓 Education
 
-#### Indian Institute of Technology Madras (IIT-M) - (B. Sc. in Data Science and Applications), *January 2024 - December 2027*
-
-#### Indraprastha Institute of Information Technology Delhi (IIIT-D) - (Took B.Tech coursework), *May 2024 - December 2024*
-
-#### Maharaja Agrasen Institute of Technology (MAIT) - (B. Tech. in Computer Science and Engineering with minor in AI&ML), *September 2021 - July 2025*
+- **Indian Institute of Technology Madras (IIT-M)** - (B. Sc. in Data Science and Applications), *January 2024 - December 2027*
+- **Indraprastha Institute of Information Technology Delhi (IIIT-D)** - (Took B.Tech coursework for one semester), *May 2024 - December 2024*
+- **Maharaja Agrasen Institute of Technology (MAIT)** - (B. Tech. in Computer Science and Engineering with minor in AI&ML), *September 2021 - July 2025*
 
 ---
 
@@ -71,6 +71,7 @@ Hey there! I'm Devansh, a passionate basketball enthusiast and a tech-freak. I'm
 - 📚 Learning by *doing*
 - 🤝 Collaboration & teaching others
 - 🧩 Solving real-world pressing issues
+- ❤️ Play hard!
 
 ---
 
